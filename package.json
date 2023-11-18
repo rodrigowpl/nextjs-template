@@ -1,7 +1,8 @@
 {
-  "name": "nextjs-shorts",
+  "name": "nextjs-template",
   "version": "0.1.0",
   "private": true,
+  "author": "Rodrigo Wippel",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
